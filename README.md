@@ -1,5 +1,3 @@
-# project
-to calculate the cgpa of all the semester
 # CGPA Result Forecaster
 
 This project was made for Hashnode Vercel Hackathon
